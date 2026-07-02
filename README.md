@@ -27,4 +27,4 @@ skills through labs, writeups, and projects.
 - 🔄 TryHackMe SOC Level 1 path — in progress
 
 ---
-📫 Connect with me on LinkedIn: [tu-link-aqui]
+
